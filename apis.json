@@ -1,0 +1,72 @@
+{
+    "name": "Rev.io",
+    "description": "Rev.io's telecom billing software does the heavy lifting for your usage-based billing & operations so you can focus on innovation & growth. Take a look!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28230-rev-io.jpg",
+    "tags": [
+        "billing",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rev-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Rev.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28230-rev-io.jpg",
+            "humanURL": "https:\/\/rev.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rev-io-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/rev.io\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/h2o-by-overgroup"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.rev.io\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@rev.io"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/developers.rev.io\/docs\/getting-started"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/rev-io"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/rev.io\/solutions\/integration\/#form"
+        },
+        {
+            "type": "Sandbox",
+            "url": "https:\/\/developers.rev.io\/docs\/sandbox"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/rev_io_hq"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/rev.io"
+        }
+    ]
+}
